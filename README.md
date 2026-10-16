@@ -6,8 +6,6 @@ Churn Radar runs on your own computer with your own keys. It is built for agenci
 
 It never sends anything to anyone. It answers one question every Monday: *which clients do we need to call first?*
 
-> Churn Radar is an independent open-source project by Thought Pilot. It is not made by or affiliated with Frontal AI or ColdIQ.
-
 ---
 
 ## Contents
